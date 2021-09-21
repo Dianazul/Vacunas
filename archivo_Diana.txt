@@ -1,0 +1,2 @@
+comandos para la base de datos por Diana Carolina Figueroa Ceferino
+create table Vacunas
